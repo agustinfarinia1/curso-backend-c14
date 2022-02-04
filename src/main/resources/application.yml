@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      database: prueba
+      host: localhost
+      port: 27020
+server:
+  port: 8080
